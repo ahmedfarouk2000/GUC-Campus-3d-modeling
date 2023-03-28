@@ -13,9 +13,5 @@
 ![Screenshot 2023-03-28 020336](https://user-images.githubusercontent.com/93868173/228094473-e44e42f4-1451-443f-a61c-b9ed3b288c9e.png)
 
 
-
-
-![Screenshot 2023-03-28 020336](https://user-images.githubusercontent.com/93868173/228094530-1d46d6ee-c656-4206-a093-0cb54c25fd00.png)
-
 ![Screenshot 2023-03-28 020320](https://user-images.githubusercontent.com/93868173/228094543-166521ee-e5b3-4ca5-a5c0-1ac09e86dfce.png)
 
