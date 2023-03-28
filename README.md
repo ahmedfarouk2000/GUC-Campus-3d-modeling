@@ -1,5 +1,7 @@
 # GUC-Campus-3d-modeling
 3D model of GUC Campus with 3 buildings (B, C, D), unique designs, platforms with screens and booths, and multiple levels. Using 3D AutoCAD software.
+
+
 https://user-images.githubusercontent.com/93868173/228097895-0afd5773-4800-4ff7-b5f4-eeb0895c0220.mp4
 
 
